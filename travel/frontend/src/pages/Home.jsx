@@ -25,9 +25,9 @@ const Home = () => {
             <Subtitle subtitle={'Know Before You Go'}/>
             <img src={worldImg} alt="" />
           </div>
-          <h1>Traveling opens the door to creating <span className="highlight">
-            memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi ut voluptatum quisquam error facilis eum rerum, ratione accusamus molestias fugiat consequatur repellendus pariatur numquam ea dolor! Eligendi sunt ab nostrum?</p>
+          <h1>Travel to <span className="highlight">
+            ExPlORe WoRlD</span></h1>
+            <p> Find your dream destination and plan the perfect trip with our curated travel packages.Book now to explore breathtaking location and creating memories</p>
         </div>
         </Col>
         <Col lg="2">

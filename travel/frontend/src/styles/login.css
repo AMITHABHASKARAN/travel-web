@@ -32,7 +32,7 @@
 }
 
 .login__form h2{
-    color: #fff;
+    color: #e51111;
     text-align: center;
     margin-bottom: 2rem;
 }
@@ -57,7 +57,7 @@
 .auth__btn{
     background: var(--heading-color) !important;
     width: 100%;
-    color: #fff !important;
+    color: #ee1717 !important;
 }
 
 .login__form p{
